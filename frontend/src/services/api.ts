@@ -1,9 +1,8 @@
 import { Bus, Route, Stop, Timetable, TripHistory, Alert, GPSHealthSummary, OfflineGPSRecord } from '../types';
 import { storageService } from './storage';
 
-const API_HOST = window.location.hostname || 'localhost';
-const API_BASE = `http://${API_HOST}:8000`;
-const WS_BASE = `ws://${API_HOST}:8000/ws/live`;
+const API_BASE = 'https://smarttransit-real-gps-only.onrender.com';
+const WS_BASE = 'wss://smarttransit-real-gps-only.onrender.com/ws/live';
 
 export const apiService = {
   getApiBase: () => API_BASE,
