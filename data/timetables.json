@@ -1,0 +1,1075 @@
+[
+  {
+    "routeId": "RT-1",
+    "serviceName": "PSIT Route 1 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5081-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-5081",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5081-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5081",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-2",
+    "serviceName": "PSIT Route 2 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-4218-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-4218",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-4218-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-4218",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-3",
+    "serviceName": "PSIT Route 3 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6077-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-6077",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6077-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6077",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-4",
+    "serviceName": "PSIT Route 4 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-8082-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-8082",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-8082-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-8082",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-5",
+    "serviceName": "PSIT Route 5 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-9845-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-9845",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-9845-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-9845",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-6",
+    "serviceName": "PSIT Route 6 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-8076-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-8076",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-8076-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-8076",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-7",
+    "serviceName": "PSIT Route 7 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-9844-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-9844",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-9844-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-9844",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-8",
+    "serviceName": "PSIT Route 8 Official Service",
+    "operatingHours": "07:55 AM - 05:45 PM",
+    "morningPickup": "07:55 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-8077-M",
+        "departureTime": "07:55 AM",
+        "busId": "BUS-8077",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-8077-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-8077",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-9",
+    "serviceName": "PSIT Route 9 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5582-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-5582",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5582-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5582",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-10",
+    "serviceName": "PSIT Route 10 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5083-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-5083",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5083-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5083",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-11",
+    "serviceName": "PSIT Route 11 Official Service",
+    "operatingHours": "07:55 AM - 05:45 PM",
+    "morningPickup": "07:55 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5082-M",
+        "departureTime": "07:55 AM",
+        "busId": "BUS-5082",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5082-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5082",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-12",
+    "serviceName": "PSIT Route 12 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6983-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-6983",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6983-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6983",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-13",
+    "serviceName": "PSIT Route 13 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6076-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-6076",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6076-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6076",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-14",
+    "serviceName": "PSIT Route 14 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-1019-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-1019",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-1019-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-1019",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-15",
+    "serviceName": "PSIT Route 15 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-0225-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-0225",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-0225-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-0225",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-16",
+    "serviceName": "PSIT Route 16 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5594-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-5594",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5594-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5594",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-17",
+    "serviceName": "PSIT Route 17 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5065-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-5065",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5065-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5065",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-18",
+    "serviceName": "PSIT Route 18 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-4215-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-4215",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-4215-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-4215",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-19",
+    "serviceName": "PSIT Route 19 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-8078-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-8078",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-8078-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-8078",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-20",
+    "serviceName": "PSIT Route 20 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-4216-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-4216",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-4216-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-4216",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-21",
+    "serviceName": "PSIT Route 21 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-9682-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-9682",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-9682-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-9682",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-22",
+    "serviceName": "PSIT Route 22 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-1018-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-1018",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-1018-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-1018",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-23",
+    "serviceName": "PSIT Route 23 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-3258-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-3258",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-3258-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-3258",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-24",
+    "serviceName": "PSIT Route 24 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6981-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-6981",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6981-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6981",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-25",
+    "serviceName": "PSIT Route 25 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-1020-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-1020",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-1020-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-1020",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-26",
+    "serviceName": "PSIT Route 26 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5171-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-5171",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5171-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5171",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-27",
+    "serviceName": "PSIT Route 27 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6982-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-6982",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6982-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6982",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-28",
+    "serviceName": "PSIT Route 28 Official Service",
+    "operatingHours": "07:55 AM - 05:45 PM",
+    "morningPickup": "07:55 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-0224-M",
+        "departureTime": "07:55 AM",
+        "busId": "BUS-0224",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-0224-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-0224",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-29",
+    "serviceName": "PSIT Route 29 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-3259-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-3259",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-3259-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-3259",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-30",
+    "serviceName": "PSIT Route 30 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-6481-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-6481",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-6481-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-6481",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-31",
+    "serviceName": "PSIT Route 31 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-4217-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-4217",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-4217-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-4217",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-32",
+    "serviceName": "PSIT Route 32 Official Service",
+    "operatingHours": "07:40 AM - 05:45 PM",
+    "morningPickup": "07:40 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-0223-M",
+        "departureTime": "07:40 AM",
+        "busId": "BUS-0223",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-0223-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-0223",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-33",
+    "serviceName": "PSIT Route 33 Official Service",
+    "operatingHours": "07:50 AM - 05:45 PM",
+    "morningPickup": "07:50 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-4216-B-M",
+        "departureTime": "07:50 AM",
+        "busId": "BUS-4216-B",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-4216-B-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-4216-B",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-34",
+    "serviceName": "PSIT Route 34 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-3256-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-3256",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-3256-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-3256",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-35",
+    "serviceName": "PSIT Route 35 Official Service",
+    "operatingHours": "07:55 AM - 05:45 PM",
+    "morningPickup": "07:55 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5581-M",
+        "departureTime": "07:55 AM",
+        "busId": "BUS-5581",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5581-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5581",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-36",
+    "serviceName": "PSIT Route 36 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-5391-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-5391",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-5391-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-5391",
+        "type": "Evening Outward"
+      }
+    ]
+  },
+  {
+    "routeId": "RT-37",
+    "serviceName": "PSIT Route 37 Official Service",
+    "operatingHours": "07:45 AM - 05:45 PM",
+    "morningPickup": "07:45 AM",
+    "collegeArrival": "08:45 AM",
+    "eveningDeparture": "05:15 PM",
+    "peakHeadwayMins": 15,
+    "offPeakHeadwayMins": 30,
+    "fare": {
+      "minFare": 0,
+      "maxFare": 0,
+      "currency": "INR (Institutional Pass)"
+    },
+    "schedule": [
+      {
+        "tripId": "TRP-3257-M",
+        "departureTime": "07:45 AM",
+        "busId": "BUS-3257",
+        "type": "Morning Inward"
+      },
+      {
+        "tripId": "TRP-3257-E",
+        "departureTime": "05:15 PM",
+        "busId": "BUS-3257",
+        "type": "Evening Outward"
+      }
+    ]
+  }
+]

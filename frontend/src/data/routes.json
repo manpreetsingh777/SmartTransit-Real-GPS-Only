@@ -1,0 +1,2120 @@
+[
+  {
+    "id": "RT-1",
+    "routeNumber": "1",
+    "name": "Route 1: Jajmau / KDA Chauraha \u21c4 PSIT Bhauti",
+    "shortName": "R-1 (Jajmau / KDA Chauraha)",
+    "color": "#00f2fe",
+    "origin": "Jajmau / KDA Chauraha",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 20.4,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-JAJMAU",
+      "STP-KDA-CHAU",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.431,
+        80.403
+      ],
+      [
+        26.4345,
+        80.399
+      ],
+      [
+        26.438,
+        80.395
+      ],
+      [
+        26.44395,
+        80.29385
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-2",
+    "routeNumber": "2",
+    "name": "Route 2: JK I & II (Kamla Nagar) \u21c4 PSIT Bhauti",
+    "shortName": "R-2 (JK I & II (Kamla Nagar)",
+    "color": "#10b981",
+    "origin": "JK I & II (Kamla Nagar)",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 18.0,
+    "avgDurationMinutes": 35,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-JK-1-2",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.481,
+        80.332
+      ],
+      [
+        26.46545,
+        80.26235
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-3",
+    "routeNumber": "3",
+    "name": "Route 3: Harjendra Nagar / Rama Devi \u21c4 PSIT Bhauti",
+    "shortName": "R-3 (Harjendra Nagar / Rama)",
+    "color": "#a855f7",
+    "origin": "Harjendra Nagar / Rama Devi",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 21.1,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-HARJENDRA",
+      "STP-RAMA-DEVI",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.446,
+        80.384
+      ],
+      [
+        26.4445,
+        80.381
+      ],
+      [
+        26.443,
+        80.378
+      ],
+      [
+        26.44645,
+        80.28535
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-4",
+    "routeNumber": "4",
+    "name": "Route 4: Ahirwa Police Chowki \u21c4 PSIT Bhauti",
+    "shortName": "R-4 (Ahirwa Police Chowki)",
+    "color": "#f59e0b",
+    "origin": "Ahirwa Police Chowki",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 18.7,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-AHIRWA",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.432,
+        80.371
+      ],
+      [
+        26.44095,
+        80.28185
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-5",
+    "routeNumber": "5",
+    "name": "Route 5: Patel Nagar / HAL Township \u21c4 PSIT Bhauti",
+    "shortName": "R-5 (Patel Nagar / HAL Town)",
+    "color": "#3b82f6",
+    "origin": "Patel Nagar / HAL Township",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 21.8,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-PATEL-NAGAR",
+      "STP-HAL",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.439,
+        80.362
+      ],
+      [
+        26.44,
+        80.358
+      ],
+      [
+        26.441,
+        80.354
+      ],
+      [
+        26.44545,
+        80.27335
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-6",
+    "routeNumber": "6",
+    "name": "Route 6: Kashi Ram Hospital / Krishna Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-6 (Kashi Ram Hospital / K)",
+    "color": "#ec4899",
+    "origin": "Kashi Ram Hospital / Krishna Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 24.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-KASHI-RAM",
+      "STP-GANDHI-GRAM",
+      "STP-KRISHNA-NAGAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.435,
+        80.348
+      ],
+      [
+        26.436,
+        80.345
+      ],
+      [
+        26.437,
+        80.342
+      ],
+      [
+        26.4395,
+        80.3385
+      ],
+      [
+        26.442,
+        80.335
+      ],
+      [
+        26.44595,
+        80.26385
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-7",
+    "routeNumber": "7",
+    "name": "Route 7: Shyam Nagar (Virendra Swaroop) \u21c4 PSIT Bhauti",
+    "shortName": "R-7 (Shyam Nagar (Virendra )",
+    "color": "#14b8a6",
+    "origin": "Shyam Nagar (Virendra Swaroop)",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 19.7,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SHYAM-SCH",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.445,
+        80.367
+      ],
+      [
+        26.44745,
+        80.27985
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-8",
+    "routeNumber": "8",
+    "name": "Route 8: Harihar Dham / PAC Vahini \u21c4 PSIT Bhauti",
+    "shortName": "R-8 (Harihar Dham / PAC Vah)",
+    "color": "#8b5cf6",
+    "origin": "Harihar Dham / PAC Vahini",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 22.8,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-HARIHAR",
+      "STP-PAC-VAHINI",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.4385,
+        80.369
+      ],
+      [
+        26.437,
+        80.3665
+      ],
+      [
+        26.4355,
+        80.364
+      ],
+      [
+        26.4427,
+        80.27835
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-9",
+    "routeNumber": "9",
+    "name": "Route 9: Gurahar Rai / Mangala Vihar / Koyla Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-9 (Gurahar Rai / Mangala )",
+    "color": "#06b6d4",
+    "origin": "Gurahar Rai / Mangala Vihar / Koyla Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 26.0,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-GURAHAR",
+      "STP-MANGALA",
+      "STP-KOYLA-NAGAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.4315,
+        80.358
+      ],
+      [
+        26.43025,
+        80.355
+      ],
+      [
+        26.429,
+        80.352
+      ],
+      [
+        26.428,
+        80.3485
+      ],
+      [
+        26.427,
+        80.345
+      ],
+      [
+        26.43845,
+        80.26885
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-10",
+    "routeNumber": "10",
+    "name": "Route 10: Shyam Nagar Bypass / Gopal Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-10 (Shyam Nagar Bypass / G)",
+    "color": "#84cc16",
+    "origin": "Shyam Nagar Bypass / Gopal Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 26.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SHYAM-BYPASS",
+      "STP-GOPAL-NAGAR",
+      "STP-PRATAP-HOTEL",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.448,
+        80.362
+      ],
+      [
+        26.446,
+        80.359
+      ],
+      [
+        26.444,
+        80.356
+      ],
+      [
+        26.44275,
+        80.3525
+      ],
+      [
+        26.4415,
+        80.349
+      ],
+      [
+        26.4457,
+        80.27085
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-11",
+    "routeNumber": "11",
+    "name": "Route 11: Yashoda Nagar Bypass \u21c4 PSIT Bhauti",
+    "shortName": "R-11 (Yashoda Nagar Bypass)",
+    "color": "#f97316",
+    "origin": "Yashoda Nagar Bypass",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 21.1,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-YASHODA-BYPASS",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.428,
+        80.338
+      ],
+      [
+        26.43895,
+        80.26535
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-12",
+    "routeNumber": "12",
+    "name": "Route 12: LIC Building (Mall Road) \u21c4 PSIT Bhauti",
+    "shortName": "R-12 (LIC Building (Mall Roa)",
+    "color": "#6366f1",
+    "origin": "LIC Building (Mall Road)",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 21.5,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-LIC-BLDG",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.468,
+        80.351
+      ],
+      [
+        26.45895,
+        80.27185
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-13",
+    "routeNumber": "13",
+    "name": "Route 13: Narauna Chauraha / Rail Bazar \u21c4 PSIT Bhauti",
+    "shortName": "R-13 (Narauna Chauraha / Rai)",
+    "color": "#eab308",
+    "origin": "Narauna Chauraha / Rail Bazar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 30.2,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-NARAUNA",
+      "STP-PANDIT-HOTEL",
+      "STP-MEER-PUR",
+      "STP-RAIL-BAZAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.462,
+        80.354
+      ],
+      [
+        26.4605,
+        80.3545
+      ],
+      [
+        26.459,
+        80.355
+      ],
+      [
+        26.457,
+        80.3565
+      ],
+      [
+        26.455,
+        80.358
+      ],
+      [
+        26.4535,
+        80.3555
+      ],
+      [
+        26.452,
+        80.353
+      ],
+      [
+        26.45095,
+        80.27285
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-14",
+    "routeNumber": "14",
+    "name": "Route 14: Ghanta Ghar / Tat Mill \u21c4 PSIT Bhauti",
+    "shortName": "R-14 (Ghanta Ghar / Tat Mill)",
+    "color": "#22c55e",
+    "origin": "Ghanta Ghar / Tat Mill",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 24.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-GHANTA-GHAR",
+      "STP-TAT-MILL",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.464,
+        80.348
+      ],
+      [
+        26.46,
+        80.345
+      ],
+      [
+        26.456,
+        80.342
+      ],
+      [
+        26.45295,
+        80.26735
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-15",
+    "routeNumber": "15",
+    "name": "Route 15: Anand Puri / Kidwai Nagar / RBI Colony \u21c4 PSIT Bhauti",
+    "shortName": "R-15 (Anand Puri / Kidwai Na)",
+    "color": "#0ea5e9",
+    "origin": "Anand Puri / Kidwai Nagar / RBI Colony",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 30.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-ANAND-PURI",
+      "STP-KIDWAI-CHAU",
+      "STP-SANI-MANDIR",
+      "STP-ALANKAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.449,
+        80.336
+      ],
+      [
+        26.4465,
+        80.334
+      ],
+      [
+        26.444,
+        80.332
+      ],
+      [
+        26.4415,
+        80.3305
+      ],
+      [
+        26.439,
+        80.329
+      ],
+      [
+        26.4375,
+        80.3265
+      ],
+      [
+        26.436,
+        80.324
+      ],
+      [
+        26.44295,
+        80.25835
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-16",
+    "routeNumber": "16",
+    "name": "Route 16: Site No. 1 / UP Kirana / Durga Mandir \u21c4 PSIT Bhauti",
+    "shortName": "R-16 (Site No. 1 / UP Kirana)",
+    "color": "#d946ef",
+    "origin": "Site No. 1 / UP Kirana / Durga Mandir",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 28.4,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SITE-1",
+      "STP-UP-KIRANA",
+      "STP-DURGA-MANDIR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.441,
+        80.321
+      ],
+      [
+        26.443,
+        80.3195
+      ],
+      [
+        26.445,
+        80.318
+      ],
+      [
+        26.4465,
+        80.3165
+      ],
+      [
+        26.448,
+        80.315
+      ],
+      [
+        26.44895,
+        80.25385
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-17",
+    "routeNumber": "17",
+    "name": "Route 17: Baradevi / Juhi Depot / Sai Mandir / Gaushala \u21c4 PSIT Bhauti",
+    "shortName": "R-17 (Baradevi / Juhi Depot )",
+    "color": "#00f2fe",
+    "origin": "Baradevi / Juhi Depot / Sai Mandir / Gaushala",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 34.4,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-BARADEVI",
+      "STP-JUHI-DEPOT",
+      "STP-KIDWAI-THANA",
+      "STP-SAI-MANDIR-CHAU",
+      "STP-GAUSHALA",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.442,
+        80.312
+      ],
+      [
+        26.441,
+        80.31
+      ],
+      [
+        26.44,
+        80.308
+      ],
+      [
+        26.439,
+        80.306
+      ],
+      [
+        26.438,
+        80.304
+      ],
+      [
+        26.4365,
+        80.301
+      ],
+      [
+        26.435,
+        80.298
+      ],
+      [
+        26.4335,
+        80.295
+      ],
+      [
+        26.432,
+        80.292
+      ],
+      [
+        26.44095,
+        80.24235
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-18",
+    "routeNumber": "18",
+    "name": "Route 18: Phoolbagh / Bada Chauraha / Chunni Ganj \u21c4 PSIT Bhauti",
+    "shortName": "R-18 (Phoolbagh / Bada Chaur)",
+    "color": "#10b981",
+    "origin": "Phoolbagh / Bada Chauraha / Chunni Ganj",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 37.5,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-PHOOLBAGH",
+      "STP-MEGHDOOT",
+      "STP-BARA-CHAU",
+      "STP-PARADE",
+      "STP-LAL-IMLI",
+      "STP-CHUNNI-GANJ",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.471,
+        80.352
+      ],
+      [
+        26.4725,
+        80.3495
+      ],
+      [
+        26.474,
+        80.347
+      ],
+      [
+        26.471,
+        80.3445
+      ],
+      [
+        26.468,
+        80.342
+      ],
+      [
+        26.46975,
+        80.34
+      ],
+      [
+        26.4715,
+        80.338
+      ],
+      [
+        26.47375,
+        80.3375
+      ],
+      [
+        26.476,
+        80.337
+      ],
+      [
+        26.47775,
+        80.338
+      ],
+      [
+        26.4795,
+        80.339
+      ],
+      [
+        26.4647,
+        80.26585
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-19",
+    "routeNumber": "19",
+    "name": "Route 19: Bazaria / Motijheel / Hallet / JK Mandir \u21c4 PSIT Bhauti",
+    "shortName": "R-19 (Bazaria / Motijheel / )",
+    "color": "#a855f7",
+    "origin": "Bazaria / Motijheel / Hallet / JK Mandir",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 43.5,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-BAZARIA",
+      "STP-HARSH-NAGAR",
+      "STP-BENA-JHAVAR",
+      "STP-MOTIJHEEL",
+      "STP-HAILET-HOSP",
+      "STP-JK-MANDIR",
+      "STP-RANGOLI",
+      "STP-MARIAMPUR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.473,
+        80.328
+      ],
+      [
+        26.47425,
+        80.326
+      ],
+      [
+        26.4755,
+        80.324
+      ],
+      [
+        26.47675,
+        80.3225
+      ],
+      [
+        26.478,
+        80.321
+      ],
+      [
+        26.4795,
+        80.319
+      ],
+      [
+        26.481,
+        80.317
+      ],
+      [
+        26.482,
+        80.314
+      ],
+      [
+        26.483,
+        80.311
+      ],
+      [
+        26.4825,
+        80.306
+      ],
+      [
+        26.482,
+        80.301
+      ],
+      [
+        26.481,
+        80.2975
+      ],
+      [
+        26.48,
+        80.294
+      ],
+      [
+        26.479,
+        80.291
+      ],
+      [
+        26.478,
+        80.288
+      ],
+      [
+        26.46395,
+        80.24035
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-20",
+    "routeNumber": "20",
+    "name": "Route 20: Green Park / Rave 3 / Arya Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-20 (Green Park / Rave 3 / )",
+    "color": "#f59e0b",
+    "origin": "Green Park / Rave 3 / Arya Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 43.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-PADAM-APPT",
+      "STP-GREEN-PARK",
+      "STP-MERCHANT-CHAMBER",
+      "STP-ELGIN-MILL",
+      "STP-GWALTOLI",
+      "STP-RAVE-3",
+      "STP-RAJEEV-PUMP",
+      "STP-ARYA-NAGAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.479,
+        80.348
+      ],
+      [
+        26.4805,
+        80.346
+      ],
+      [
+        26.482,
+        80.344
+      ],
+      [
+        26.4835,
+        80.3415
+      ],
+      [
+        26.485,
+        80.339
+      ],
+      [
+        26.4865,
+        80.3365
+      ],
+      [
+        26.488,
+        80.334
+      ],
+      [
+        26.4895,
+        80.3315
+      ],
+      [
+        26.491,
+        80.329
+      ],
+      [
+        26.49,
+        80.3255
+      ],
+      [
+        26.489,
+        80.322
+      ],
+      [
+        26.488,
+        80.319
+      ],
+      [
+        26.487,
+        80.316
+      ],
+      [
+        26.486,
+        80.313
+      ],
+      [
+        26.485,
+        80.31
+      ],
+      [
+        26.46745,
+        80.25135
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-21",
+    "routeNumber": "21",
+    "name": "Route 21: P. Road / Jarib Chauki \u21c4 PSIT Bhauti",
+    "shortName": "R-21 (P. Road / Jarib Chauki)",
+    "color": "#3b82f6",
+    "origin": "P. Road / Jarib Chauki",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 27.4,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-P-ROAD",
+      "STP-JARIB-CHAUKI",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.467,
+        80.327
+      ],
+      [
+        26.468,
+        80.321
+      ],
+      [
+        26.469,
+        80.315
+      ],
+      [
+        26.45945,
+        80.25385
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-22",
+    "routeNumber": "22",
+    "name": "Route 22: Afim Kothi / Fazalganj / Armapur / Panki MIG \u21c4 PSIT Bhauti",
+    "shortName": "R-22 (Afim Kothi / Fazalganj)",
+    "color": "#ec4899",
+    "origin": "Afim Kothi / Fazalganj / Armapur / Panki MIG",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 41.8,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-AFIM-KOTHI",
+      "STP-CITY-CLUB",
+      "STP-JARIB-CHAUKI",
+      "STP-JK-JUTE",
+      "STP-FAZALGANJ",
+      "STP-ARMAPUR-ESTATE",
+      "STP-PANKI-MIG",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.459,
+        80.325
+      ],
+      [
+        26.4605,
+        80.322
+      ],
+      [
+        26.462,
+        80.319
+      ],
+      [
+        26.4655,
+        80.317
+      ],
+      [
+        26.469,
+        80.315
+      ],
+      [
+        26.4675,
+        80.3115
+      ],
+      [
+        26.466,
+        80.308
+      ],
+      [
+        26.467,
+        80.303
+      ],
+      [
+        26.468,
+        80.298
+      ],
+      [
+        26.46875,
+        80.2815
+      ],
+      [
+        26.4695,
+        80.265
+      ],
+      [
+        26.46575,
+        80.2535
+      ],
+      [
+        26.462,
+        80.242
+      ],
+      [
+        26.45595,
+        80.21735
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-23",
+    "routeNumber": "23",
+    "name": "Route 23: Bharam Nagar / 80 Ft. Road / Gumti \u21c4 PSIT Bhauti",
+    "shortName": "R-23 (Bharam Nagar / 80 Ft. )",
+    "color": "#14b8a6",
+    "origin": "Bharam Nagar / 80 Ft. Road / Gumti",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 33.7,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-BHARAM-NAGAR",
+      "STP-80FT-PUMPS",
+      "STP-80FT-BHASIN",
+      "STP-GUMTI-GURDWARA",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.474,
+        80.309
+      ],
+      [
+        26.475,
+        80.3065
+      ],
+      [
+        26.476,
+        80.304
+      ],
+      [
+        26.477,
+        80.3015
+      ],
+      [
+        26.478,
+        80.299
+      ],
+      [
+        26.4795,
+        80.297
+      ],
+      [
+        26.481,
+        80.295
+      ],
+      [
+        26.46545,
+        80.24385
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-24",
+    "routeNumber": "24",
+    "name": "Route 24: Coca Cola / Kaushalpuri / Shastri Nagar / Vijay Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-24 (Coca Cola / Kaushalpur)",
+    "color": "#8b5cf6",
+    "origin": "Coca Cola / Kaushalpuri / Shastri Nagar / Vijay Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 39.6,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-COCA-COLA",
+      "STP-NAZIRABAD",
+      "STP-KAUSHALPURI",
+      "STP-CHAIN-FACTORY",
+      "STP-BOB-SHASTRI",
+      "STP-CL-HOSP",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.483,
+        80.292
+      ],
+      [
+        26.4815,
+        80.29
+      ],
+      [
+        26.48,
+        80.288
+      ],
+      [
+        26.4785,
+        80.2865
+      ],
+      [
+        26.477,
+        80.285
+      ],
+      [
+        26.4755,
+        80.283
+      ],
+      [
+        26.474,
+        80.281
+      ],
+      [
+        26.473,
+        80.2785
+      ],
+      [
+        26.472,
+        80.276
+      ],
+      [
+        26.4715,
+        80.2735
+      ],
+      [
+        26.471,
+        80.271
+      ],
+      [
+        26.46045,
+        80.23185
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-25",
+    "routeNumber": "25",
+    "name": "Route 25: Company Bagh / Nawabganj / Signature Green \u21c4 PSIT Bhauti",
+    "shortName": "R-25 (Company Bagh / Nawabga)",
+    "color": "#06b6d4",
+    "origin": "Company Bagh / Nawabganj / Signature Green",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 40.0,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-COMPANY-BAGH",
+      "STP-NAWABGANJ-THANA",
+      "STP-AZAD-NAGAR",
+      "STP-SIGNATURE-GREEN",
+      "STP-JUGAL-DEVI",
+      "STP-KESA-COLONY",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.495,
+        80.312
+      ],
+      [
+        26.4965,
+        80.309
+      ],
+      [
+        26.498,
+        80.306
+      ],
+      [
+        26.4985,
+        80.302
+      ],
+      [
+        26.499,
+        80.298
+      ],
+      [
+        26.498,
+        80.2945
+      ],
+      [
+        26.497,
+        80.291
+      ],
+      [
+        26.496,
+        80.2885
+      ],
+      [
+        26.495,
+        80.286
+      ],
+      [
+        26.494,
+        80.2835
+      ],
+      [
+        26.493,
+        80.281
+      ],
+      [
+        26.47145,
+        80.23685
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-26",
+    "routeNumber": "26",
+    "name": "Route 26: Signature Green / 9 No. Crossing / Chapeda Pulia \u21c4 PSIT Bhauti",
+    "shortName": "R-26 (Signature Green / 9 No)",
+    "color": "#84cc16",
+    "origin": "Signature Green / 9 No. Crossing / Chapeda Pulia",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 40.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SIGNATURE-GREEN",
+      "STP-JUGAL-DEVI",
+      "STP-KESA-COLONY",
+      "STP-9NO-CROSSING",
+      "STP-ANURAG-HOSP",
+      "STP-CHAPEDA-PULIA",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.497,
+        80.291
+      ],
+      [
+        26.496,
+        80.2885
+      ],
+      [
+        26.495,
+        80.286
+      ],
+      [
+        26.494,
+        80.2835
+      ],
+      [
+        26.493,
+        80.281
+      ],
+      [
+        26.4915,
+        80.2795
+      ],
+      [
+        26.49,
+        80.278
+      ],
+      [
+        26.489,
+        80.2755
+      ],
+      [
+        26.488,
+        80.273
+      ],
+      [
+        26.4865,
+        80.2705
+      ],
+      [
+        26.485,
+        80.268
+      ],
+      [
+        26.46745,
+        80.23035
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-27",
+    "routeNumber": "27",
+    "name": "Route 27: Makadikhera CNG / Gurdev Chauraha \u21c4 PSIT Bhauti",
+    "shortName": "R-27 (Makadikhera CNG / Gurd)",
+    "color": "#f97316",
+    "origin": "Makadikhera CNG / Gurdev Chauraha",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 32.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-MAKADIKHERA",
+      "STP-SALES-TAX",
+      "STP-GURDEV-CHAU",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.498,
+        80.275
+      ],
+      [
+        26.4945,
+        80.2785
+      ],
+      [
+        26.491,
+        80.282
+      ],
+      [
+        26.4885,
+        80.285
+      ],
+      [
+        26.486,
+        80.288
+      ],
+      [
+        26.46795,
+        80.24035
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-28",
+    "routeNumber": "28",
+    "name": "Route 28: Saneshwar Mandir / Double Pulia / Vijay Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-28 (Saneshwar Mandir / Dou)",
+    "color": "#6366f1",
+    "origin": "Saneshwar Mandir / Double Pulia / Vijay Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 41.0,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SANESHWAR",
+      "STP-NAMAK-FACTORY",
+      "STP-GOPALA-TOWER",
+      "STP-DOUBLE-PULIA",
+      "STP-VIJAY-MANDI",
+      "STP-VIJAY-NAGAR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.452,
+        80.298
+      ],
+      [
+        26.454,
+        53.377
+      ],
+      [
+        26.456,
+        26.456
+      ],
+      [
+        26.4585,
+        53.3725
+      ],
+      [
+        26.461,
+        80.289
+      ],
+      [
+        26.463,
+        80.2855
+      ],
+      [
+        26.465,
+        80.282
+      ],
+      [
+        26.467,
+        80.2785
+      ],
+      [
+        26.469,
+        80.275
+      ],
+      [
+        26.47125,
+        80.2715
+      ],
+      [
+        26.4735,
+        80.268
+      ],
+      [
+        26.4617,
+        80.23035
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-29",
+    "routeNumber": "29",
+    "name": "Route 29: Navsheel Dham / Ratan Orbit / CSJM University \u21c4 PSIT Bhauti",
+    "shortName": "R-29 (Navsheel Dham / Ratan )",
+    "color": "#eab308",
+    "origin": "Navsheel Dham / Ratan Orbit / CSJM University",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 35.8,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-NAVSHEEL-DHAM",
+      "STP-INDRA-NAGAR",
+      "STP-RATAN-ORBIT",
+      "STP-CSJM-UNIV",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.505,
+        80.268
+      ],
+      [
+        26.5035,
+        80.265
+      ],
+      [
+        26.502,
+        80.262
+      ],
+      [
+        26.5,
+        80.2605
+      ],
+      [
+        26.498,
+        80.259
+      ],
+      [
+        26.4935,
+        80.2665
+      ],
+      [
+        26.489,
+        80.274
+      ],
+      [
+        26.46945,
+        80.23335
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-30",
+    "routeNumber": "30",
+    "name": "Route 30: Saneshwar Mandir / KDMA World / Brahm Dev \u21c4 PSIT Bhauti",
+    "shortName": "R-30 (Saneshwar Mandir / KDM)",
+    "color": "#22c55e",
+    "origin": "Saneshwar Mandir / KDMA World / Brahm Dev",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 33.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-SANESHWAR",
+      "STP-KDMA-WORLD",
+      "STP-BRAHM-DEV",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.452,
+        80.298
+      ],
+      [
+        26.447,
+        80.2915
+      ],
+      [
+        26.442,
+        80.285
+      ],
+      [
+        26.444,
+        80.283
+      ],
+      [
+        26.446,
+        80.281
+      ],
+      [
+        26.44795,
+        80.23685
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-31",
+    "routeNumber": "31",
+    "name": "Route 31: Escorts World School / Awas Vikas I & III \u21c4 PSIT Bhauti",
+    "shortName": "R-31 (Escorts World School /)",
+    "color": "#0ea5e9",
+    "origin": "Escorts World School / Awas Vikas I & III",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 30.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-ESCORTS-SCHOOL",
+      "STP-AWAS-VIKAS",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.509,
+        80.252
+      ],
+      [
+        26.5065,
+        80.25
+      ],
+      [
+        26.504,
+        80.248
+      ],
+      [
+        26.47695,
+        80.22035
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-32",
+    "routeNumber": "32",
+    "name": "Route 32: Mandhana / Ratan Orbit / IIT Gate / Kalyanpur \u21c4 PSIT Bhauti",
+    "shortName": "R-32 (Mandhana / Ratan Orbit)",
+    "color": "#d946ef",
+    "origin": "Mandhana / Ratan Orbit / IIT Gate / Kalyanpur",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 36.9,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-MANDHANA-CHOWKI",
+      "STP-RATAN-ORBIT",
+      "STP-IIT-GATE",
+      "STP-KALYANPUR-CROSSING",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.541,
+        80.211
+      ],
+      [
+        26.5195,
+        80.235
+      ],
+      [
+        26.498,
+        80.259
+      ],
+      [
+        26.50515,
+        80.24625
+      ],
+      [
+        26.5123,
+        80.2335
+      ],
+      [
+        26.5039,
+        80.24575
+      ],
+      [
+        26.4955,
+        80.258
+      ],
+      [
+        26.4727,
+        80.22535
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-33",
+    "routeNumber": "33",
+    "name": "Route 33: MPGI / Kalyanpur / Lodheshwar / Panki / BMC \u21c4 PSIT Bhauti",
+    "shortName": "R-33 (MPGI / Kalyanpur / Lod)",
+    "color": "#00f2fe",
+    "origin": "MPGI / Kalyanpur / Lodheshwar / Panki / BMC",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 48.4,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-BAGIA-CROSSING",
+      "STP-MP-COLLEGE",
+      "STP-KALYANPUR-CHOWKI",
+      "STP-LODHESHWAR",
+      "STP-GAYATRI-PALACE",
+      "STP-AMARAPUR-GATE",
+      "STP-PANKI-CHOWKI",
+      "STP-BMC-HOSP",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.488,
+        80.248
+      ],
+      [
+        26.485,
+        80.2465
+      ],
+      [
+        26.482,
+        80.245
+      ],
+      [
+        26.4805,
+        80.2435
+      ],
+      [
+        26.479,
+        80.242
+      ],
+      [
+        26.477,
+        80.2405
+      ],
+      [
+        26.475,
+        80.239
+      ],
+      [
+        26.473,
+        80.237
+      ],
+      [
+        26.471,
+        80.235
+      ],
+      [
+        26.469,
+        80.2335
+      ],
+      [
+        26.467,
+        80.232
+      ],
+      [
+        26.4655,
+        80.23
+      ],
+      [
+        26.464,
+        80.228
+      ],
+      [
+        26.461,
+        80.223
+      ],
+      [
+        26.458,
+        80.218
+      ],
+      [
+        26.45395,
+        80.20535
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-34",
+    "routeNumber": "34",
+    "name": "Route 34: Hanspuram / Machharia / Naubasta \u21c4 PSIT Bhauti",
+    "shortName": "R-34 (Hanspuram / Machharia )",
+    "color": "#10b981",
+    "origin": "Hanspuram / Machharia / Naubasta",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 40.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-HANSPURAM",
+      "STP-NAUBASTA-BAMBA",
+      "STP-MACHHARIA",
+      "STP-DASU-KUAN",
+      "STP-NAUBASTA-CHAU",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.418,
+        80.334
+      ],
+      [
+        26.42,
+        80.3315
+      ],
+      [
+        26.422,
+        80.329
+      ],
+      [
+        26.4235,
+        80.326
+      ],
+      [
+        26.425,
+        80.323
+      ],
+      [
+        26.4265,
+        80.32
+      ],
+      [
+        26.428,
+        80.317
+      ],
+      [
+        26.4295,
+        80.3145
+      ],
+      [
+        26.431,
+        80.312
+      ],
+      [
+        26.44045,
+        80.25235
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-35",
+    "routeNumber": "35",
+    "name": "Route 35: Naubasta / Damodar Nagar / Barra / Gujaini Bypass \u21c4 PSIT Bhauti",
+    "shortName": "R-35 (Naubasta / Damodar Nag)",
+    "color": "#a855f7",
+    "origin": "Naubasta / Damodar Nagar / Barra / Gujaini Bypass",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 46.3,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-NAUBASTA-CHAU",
+      "STP-DAMODAR-NAGAR",
+      "STP-BARRA-BYPASS",
+      "STP-PRIYA-HOSP",
+      "STP-BASHANT-PUMP",
+      "STP-KARGIL-PUMP",
+      "STP-GUJAINI-BYPASS",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.431,
+        80.312
+      ],
+      [
+        26.433,
+        80.3085
+      ],
+      [
+        26.435,
+        80.305
+      ],
+      [
+        26.4365,
+        80.3015
+      ],
+      [
+        26.438,
+        80.298
+      ],
+      [
+        26.43875,
+        80.2945
+      ],
+      [
+        26.4395,
+        80.291
+      ],
+      [
+        26.44025,
+        80.2875
+      ],
+      [
+        26.441,
+        80.284
+      ],
+      [
+        26.442,
+        80.28
+      ],
+      [
+        26.443,
+        80.276
+      ],
+      [
+        26.4445,
+        80.2705
+      ],
+      [
+        26.446,
+        80.265
+      ],
+      [
+        26.44795,
+        80.22885
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-36",
+    "routeNumber": "36",
+    "name": "Route 36: CTI / Nandlal / Deep Cinema / Saket Nagar \u21c4 PSIT Bhauti",
+    "shortName": "R-36 (CTI / Nandlal / Deep C)",
+    "color": "#f59e0b",
+    "origin": "CTI / Nandlal / Deep Cinema / Saket Nagar",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 46.6,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-CTI-CHAU",
+      "STP-DAWAT-REST",
+      "STP-BHOLA-DAIRY",
+      "STP-NANDLAL-CHAU",
+      "STP-DEEP-CINEMA",
+      "STP-HONDA-SAKET",
+      "STP-SOCIETY-MOTOR",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.452,
+        80.288
+      ],
+      [
+        26.453,
+        80.291
+      ],
+      [
+        26.454,
+        80.294
+      ],
+      [
+        26.455,
+        80.2965
+      ],
+      [
+        26.456,
+        80.299
+      ],
+      [
+        26.457,
+        80.3015
+      ],
+      [
+        26.458,
+        80.304
+      ],
+      [
+        26.45875,
+        80.3065
+      ],
+      [
+        26.4595,
+        80.309
+      ],
+      [
+        26.46075,
+        80.312
+      ],
+      [
+        26.462,
+        80.315
+      ],
+      [
+        26.463,
+        80.317
+      ],
+      [
+        26.464,
+        80.319
+      ],
+      [
+        26.45695,
+        80.25585
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  },
+  {
+    "id": "RT-37",
+    "routeNumber": "37",
+    "name": "Route 37: Dabouli / Shastri Chowk / Barra-2 / Sachan \u21c4 PSIT Bhauti",
+    "shortName": "R-37 (Dabouli / Shastri Chow)",
+    "color": "#3b82f6",
+    "origin": "Dabouli / Shastri Chowk / Barra-2 / Sachan",
+    "destination": "PSIT Campus (Bhauti)",
+    "totalDistanceKm": 47.0,
+    "avgDurationMinutes": 45,
+    "corridorRadiusMeters": 180,
+    "stops": [
+      "STP-DABOULI-STAND",
+      "STP-RATANLAL-PUMP",
+      "STP-SAURABH-GUEST",
+      "STP-SHASTRI-CHOWK",
+      "STP-BARRA-TANKI",
+      "STP-HANUMAN-BARRA2",
+      "STP-SACHAN-GUEST",
+      "STP-PSIT"
+    ],
+    "waypoints": [
+      [
+        26.438,
+        80.279
+      ],
+      [
+        26.4395,
+        80.277
+      ],
+      [
+        26.441,
+        80.275
+      ],
+      [
+        26.4425,
+        80.2735
+      ],
+      [
+        26.444,
+        80.272
+      ],
+      [
+        26.4455,
+        80.2705
+      ],
+      [
+        26.447,
+        80.269
+      ],
+      [
+        26.448,
+        80.267
+      ],
+      [
+        26.449,
+        80.265
+      ],
+      [
+        26.45,
+        80.263
+      ],
+      [
+        26.451,
+        80.261
+      ],
+      [
+        26.45175,
+        80.2585
+      ],
+      [
+        26.4525,
+        80.256
+      ],
+      [
+        26.4512,
+        80.22435
+      ],
+      [
+        26.4499,
+        80.1927
+      ]
+    ]
+  }
+]
